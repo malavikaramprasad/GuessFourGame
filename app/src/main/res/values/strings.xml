@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessFour</string>
+    <string name="welcome_msg">Guess Four Game</string>
+    <string name="winner">Winner:</string>
+    <string name="start_game">Start Game</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player1_number_text">Player 1</string>
+    <string name="player2_number_text">Player 2</string>
+    <string name="draw_msg">Its a DRAW</string>
+    <string name="player1wins">Player 1 wins</string>
+    <string name="player2wins">Player 2 wins</string>
+</resources>
